@@ -11,7 +11,7 @@
   "author": "Nawael",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nwl-x/checker.js.git"
+    "url": "https://github.com/j-gunst/checker.js.git"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",

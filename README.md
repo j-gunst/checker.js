@@ -2,15 +2,15 @@
 
 A set of boilerplate utilities for checking any type of values ​​without headaches or common mistakes
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nwl-x/checker.js/release.yml)
-[![codecov](https://codecov.io/github/nwl-x/checker.js/graph/badge.svg?token=3S7NXTH8RE)](https://codecov.io/github/nwl-x/checker.js)
-![GitHub top language](https://img.shields.io/github/languages/top/nwl-x/checker.js?logo=typescript)
-![GitHub License](https://img.shields.io/github/license/nwl-x/checker.js)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/j-gunst/checker.js/release.yml)
+[![codecov](https://codecov.io/github/j-gunst/checker.js/graph/badge.svg?token=3S7NXTH8RE)](https://codecov.io/github/j-gunst/checker.js)
+![GitHub top language](https://img.shields.io/github/languages/top/j-gunst/checker.js?logo=typescript)
+![GitHub License](https://img.shields.io/github/license/j-gunst/checker.js)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40nawael%2Fchecker.js?logo=npm)
 ![NPM Version](https://img.shields.io/npm/v/%40nawael%2Fchecker.js)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/%40nawael%2Fchecker.js)
 
-![Banner](https://raw.githubusercontent.com/nwl-x/checker.js/main/checker-banner.png)
+![Banner](https://raw.githubusercontent.com/j-gunst/checker.js/main/checker-banner.png)
 
 ## Installation
 
